@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours');
 const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
-const newYear = '3 June 2022';
+const newYear = '16 June 2022';
 
 function countdown(){
     const newYearsDate = new Date(newYear);
